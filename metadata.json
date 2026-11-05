@@ -1,0 +1,6 @@
+{
+  "name": "Pink Birthday Celebration",
+  "description": "Website ulang tahun spesial bernuansa pink cantik dengan latar belakang bergerak interaktif, kue tiup lilin, melodi musik box, galeri polaroid, dan kartu ucapan cinta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
